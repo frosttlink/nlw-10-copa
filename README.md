@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendario da Copa é um projeto que mostra os jogos da Copa de 2022
+O Calendario da Copa é um projeto que mostra os jogos da Copa de 2022 (Feito na penultima NLW da Rocketseat)
 
 ## 🔖 Layout
 
